@@ -15,33 +15,29 @@ To run any of the tasks, make sure you have Python installed. Follow these steps
 
 To run the To-Do List application, follow these steps:
 
-1. Navigate to the To-Do List directory: `cd todo_list`
-2. Run the application: `python todo_app.py`
-3. Add, update, and manage your tasks with ease.
+1. Run the application: `python Task1.py`
+2. Add, update, and manage your tasks with ease.
 
 ### Simple Calculator
 
 To run the Simple Calculator, follow these steps:
 
-1. Navigate to the Calculator directory: `cd calculator`
-2. Run the calculator: `python calculator.py`
-3. Input two numbers and choose an operation to perform basic arithmetic.
+1. Run the calculator: `python Task2.py`
+2. Input two numbers and choose an operation to perform basic arithmetic.
 
 ### Password Generator
 
 To run the Password Generator, follow these steps:
 
-1. Navigate to the Password Generator directory: `cd password_generator`
-2. Run the generator: `python password_generator.py`
-3. Enter the desired length, and a strong password will be generated.
+1. Run the generator: `python Task3.py`
+2. Enter the desired length, and a strong password will be generated.
 
 ### Rock-Paper-Scissors Game
 
 To play the Rock-Paper-Scissors game, follow these steps:
 
-1. Navigate to the Rock-Paper-Scissors directory: `cd rock_paper_scissors`
-2. Run the game: `python rock_paper_scissors.py`
-3. Choose 'r' for Rock, 'p' for Paper, or 's' for Scissors and compete against the computer.
+1. Run the game: `python Task4.py`
+2. Choose 'r' for Rock, 'p' for Paper, or 's' for Scissors and compete against the computer.
 
 ## Contributing
 
