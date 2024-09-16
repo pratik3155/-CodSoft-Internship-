@@ -6,6 +6,8 @@ This repository contains tasks completed during my internship, including a To-Do
 
 To run any of the tasks, make sure you have Python installed. Follow these steps:
 
+line added by me
+
 1. Clone the repository: `git clone <repository_url>`
 2. Navigate to the project directory: `cd <repository_directory>`
 
